@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-04T07:26:43.201Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="W3i6U_ZRCWfGi7Z_DXR5" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-04T07:51:42.369Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="jDxWipHgTGq_oB8THDGA" version="20.5.3" type="github">
   <diagram id="bOa9zBhE-UNePfZZ_N-0" name="第 1 页">
     <mxGraphModel dx="1022" dy="428" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -56,7 +56,7 @@
           <mxGeometry x="310" y="220" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RdJbhSmqi6rSrBjilmrc-22" value="总结" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="530" y="200" width="230" height="120" as="geometry">
+          <mxGeometry x="530" y="200" width="230" height="150" as="geometry">
             <mxRectangle x="550" y="190" width="60" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -68,6 +68,9 @@
         </mxCell>
         <mxCell id="RdJbhSmqi6rSrBjilmrc-23" value="3. 本来后台运行的进程要前台运行" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="RdJbhSmqi6rSrBjilmrc-22">
           <mxGeometry y="90" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RdJbhSmqi6rSrBjilmrc-34" value="4. 为什么要写 dockerfile" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="RdJbhSmqi6rSrBjilmrc-22">
+          <mxGeometry y="120" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RdJbhSmqi6rSrBjilmrc-18" value="web 应用" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="220" width="100" height="30" as="geometry" />
