@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-04T07:51:42.369Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="jDxWipHgTGq_oB8THDGA" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-04T08:26:15.558Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="exTB21Ncdc-elkiLu1r7" version="20.5.3" type="github">
   <diagram id="bOa9zBhE-UNePfZZ_N-0" name="第 1 页">
-    <mxGraphModel dx="1022" dy="428" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="978" dy="314" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -74,9 +74,6 @@
         </mxCell>
         <mxCell id="RdJbhSmqi6rSrBjilmrc-18" value="web 应用" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="220" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="RdJbhSmqi6rSrBjilmrc-27" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="370" y="330" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RdJbhSmqi6rSrBjilmrc-28" value="虚拟机实现思路的转换" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="520" y="120" width="210" height="30" as="geometry" />
